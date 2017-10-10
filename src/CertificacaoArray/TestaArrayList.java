@@ -12,6 +12,7 @@ public class TestaArrayList {
 		nomes.add("java");
 		nomes.add("python");
 		nomes.add("scala");
+		nomes.add("sqoop");
 		
 		Iterator<String> it =  nomes.iterator();  // 
 		
